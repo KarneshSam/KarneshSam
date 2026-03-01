@@ -1,8 +1,6 @@
-👋 Hi! I’m Karnesh S, a research enthusiast and bioinformatics practitioner with a focus on genomics, transcriptomics, and computational biology.
-
-I work on sequencing data to analyse and create reproducible workflows and pipelines in Python, R, and Snakemake.
-
-Passionate about translating complex biological datasets into meaningful insights, I enjoy developing tools, automating analyses, and exploring new computational methods.
+* 👋 Hi! I’m Karnesh S, a research enthusiast and bioinformatics practitioner with a focus on genomics, transcriptomics, and computational biology.
+* I work on sequencing data to analyse and create reproducible workflows and pipelines in Python, R, and Snakemake.
+* Passionate about translating complex biological datasets into meaningful insights, I enjoy developing tools, automating analyses, and exploring new computational methods.
 
 💻 Tech & Tools: Python, R, Snakemake, Bash, Linux.
 
